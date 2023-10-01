@@ -1,0 +1,2 @@
+# algorithms
+Repo for hacktoberfest
